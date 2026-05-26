@@ -102,7 +102,7 @@ loader.load(
     // make rig and mount car under it
     carRig = new THREE.Object3D();
     scene.add(carRig);
-    carRig.position.set(0, 0, 0);
+    carRig.position.set(4800, 150, -4200);
 
 
     car = gltf.scene;
