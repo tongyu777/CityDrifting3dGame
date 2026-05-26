@@ -1,0 +1,15 @@
+#hud {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  font-family: 'Segoe UI', sans-serif;
+  color: white;
+  font-size: 20px;
+  background: none;
+  padding: 0;
+  z-index: 10;
+}
+
+#hud div {
+  margin: 4px 0;
+}

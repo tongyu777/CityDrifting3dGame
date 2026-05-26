@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Car - BMW E30 1985 White
+* source:	https://sketchfab.com/3d-models/low-poly-car-bmw-e30-1985-white-9dea494b447e442fafbddfc7eccbf158
+* author:	tedpermana (https://sketchfab.com/tedpermana)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Car - BMW E30 1985 White" (https://sketchfab.com/3d-models/low-poly-car-bmw-e30-1985-white-9dea494b447e442fafbddfc7eccbf158) by tedpermana (https://sketchfab.com/tedpermana) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
